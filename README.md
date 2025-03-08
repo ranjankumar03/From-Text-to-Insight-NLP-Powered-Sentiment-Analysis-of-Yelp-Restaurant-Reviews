@@ -1,2 +1,9 @@
 # From-Text-to-Insight-NLP-Powered-Sentiment-Analysis-of-Yelp-Restaurant-Reviews
 An In-Depth Analysis of the Yelp’s Restaurant Reviews Based on Customer Sentiments using Natural Language Processing (NLP)-Driven Insights
+
+This project explores sentiment analysis of Yelp restaurant reviews using Natural Language Processing (NLP) techniques. With the growing importance of online reviews in consumer decision-making, businesses are increasingly relying on feedback platforms like Yelp to gauge customer satisfaction. This sentiment analysis aims to classify restaurant reviews as positive, neutral, or negative based on textual data.
+We employ a range of NLP methods, including data pre-processing (tokenization, stopword removal, and lemmatization) and feature extraction techniques such as TF-IDF and word embeddings. A variety of machine learning models, including Logistic Regression, Support Vector Machines, were trained on the processed review data. Later BERT classification was performed and compared the results. Topic detection has been employed also.
+The performance of these models was evaluated using metrics such as accuracy, precision, recall, and F1-score. Our findings indicate that machine learning algorithms, particularly deep learning models, exhibit strong performance in accurately predicting the sentiment of Yelp reviews. The results highlight the effectiveness of NLP techniques in sentiment analysis and offer insights into consumer preferences, which can help restaurant businesses improve their services based on customer feedback.
+II. KEYWORDS
+Sentiment, Yelp, Linear model, Regression Models, NLTK, Machine Learning, Correlation, Mean Squared Error, Classification Report, Heatmap, Silhouette, RoC Curve, Confusion Matrix, Jaccard, GridSearchCV, Naïve Bayes, skLearn Pipeline, WordNetLemmatizer, tensorflow_text, AdamW optimizer
+
